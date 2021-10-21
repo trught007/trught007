@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to study new things
 - 💞️ I’m looking to collaborate on cybsec
-- 📫 How to reach me, ping me on instagram _ujjwal.pratap.singh_
+- 📫 How to reach me, ping me on instagram _ujjwal.pratap.singh
 
 <!---
 trught007/trught007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
